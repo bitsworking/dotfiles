@@ -1,0 +1,17 @@
+/.osx
+Password:
+
+Warning: Idle sleep timings for "Battery Power" may not behave as expected.
+- Display sleep should have a lower timeout than system sleep.
+
+Warning: Idle sleep timings for "AC Power" may not behave as expected.
+- Display sleep should have a lower timeout than system sleep.
+You need administrator access to run this tool... exiting!
+
+Warning: Idle sleep timings for "Battery Power" may not behave as expected.
+- Display sleep should have a lower timeout than system sleep.
+
+Warning: Idle sleep timings for "AC Power" may not behave as expected.
+- Display sleep should have a lower timeout than system sleep.
+
+Done. Note that some of these changes require a logout/restart to take effect.
